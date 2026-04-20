@@ -1,7 +1,7 @@
 # Lead-Generation-Agent
 A Lead Gen Agent that automatically generates high and medium values leads and categories them
 
-Tech Stack:
+## Tech Stack:
 n8n, snov.io, APIMate, Google Sheets, Gemini, OpenRouter
 
 ## Workflow
